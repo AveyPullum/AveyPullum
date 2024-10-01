@@ -10,6 +10,7 @@ I started my computer science journey as a freshman at UNC, so I am still in the
     [] Java Coding
 
 ### Classes
+
   #### Comp 110
     [] In this class, I learned how to code in python in this class and about simple data structures
 
