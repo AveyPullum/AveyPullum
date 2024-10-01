@@ -6,26 +6,26 @@ My name is Avéy Pullum, and I am 2nd year student at the University of North Ca
 ## Skills
 I started my computer science journey as a freshman at UNC, so I am still in the process of learning and refining my skills
 
-     [] Python Coding
-     [] Java Coding
+ [] Python Coding
+ [] Java Coding
 
 ### Classes
   #### Comp 110
-     [] In this class, I learned how to code in python in this class and about simple data structures
+   [] In this class, I learned how to code in python in this class and about simple data structures
 
   #### Comp 210
-     [] In this class, I learned how to code in java in this class and more complex data structures
+   [] In this class, I learned how to code in java in this class and more complex data structures
      
   #### Comp 283
-     [] In this class, I learned a lot about computer science logic and doing proofs
+  [] In this class, I learned a lot about computer science logic and doing proofs
      
   #### Comp 290
-     [] In this class, I am learning about basics of computer science such using things like using my macbook's 
+[] In this class, I am learning about basics of computer science such using things like using my macbook's 
      terminal, Docker, Github, and more. I am also learning ways to make my coding jobs more efficient in terms 
      of collaborations with tools like making commits using github.
 
   #### Comp 455
-     [] In this class, I am learning about how to make regular expressions, transition diagrams, NFAs, DFAs, and more.
+  [] In this class, I am learning about how to make regular expressions, transition diagrams, NFAs, DFAs, and more.
 
 ### Tools and Programming Languages
 I know how to code in python, and I have some experience coding in Java as well. In both langueages, I have done class assignments and used github and docker to help store and save my work. Using python, I have created drawings, codes to interact with users, and codes to keep track of my work. I have also used Java to make user interactions and to keep track of work as well.
