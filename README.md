@@ -12,13 +12,14 @@ I started my computer science journey as a freshman at UNC, so I am still in the
 ### Classes
 
   #### Comp 110
-    [] In this class, I learned how to code in python in this class and about simple data structures
+    [] I gained experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing
 
   #### Comp 210
-    [] In this class, I learned how to code in java in this class and more complex data structures
+    [] In this class, I learned how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances
      
   #### Comp 283
-    [] In this class, I learned a lot about computer science logic and doing proofs
+    [] In this class, I learned discrete structures (sets, tuples, relations, functions, graphs, trees) and the formal mathematics (logic, proof, induction) used to establish their properties and those of algorithms that work with them. 
+    [] I also further developed problem-solving skills through puzzles and applications central to computer science.
      
   #### Comp 290
     [] In this class, I am learning about basics of computer science such using things like using my macbook's 
@@ -26,7 +27,7 @@ I started my computer science journey as a freshman at UNC, so I am still in the
      of collaborations with tools like making commits using github.
 
   #### Comp 455
-    [] In this class, I am learning about how to make regular expressions, transition diagrams, NFAs, DFAs, and more.
+    [] I am currently in this class, however, I am learning about the theory of computation. Things such as finite automata, regular languages, pushdown automata, context-free languages, and turing machines are being taught.
 
 ### Tools and Programming Languages
 I know how to code in python, and I have some experience coding in Java as well. In both langueages, I have done class assignments and used github and docker to help store and save my work. Using python, I have created drawings, codes to interact with users, and codes to keep track of my work. I have also used Java to make user interactions and to keep track of work as well.
